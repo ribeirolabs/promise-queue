@@ -1,8 +1,8 @@
-# @ribeirolabs/package-template
+# @ribeirolabs/promise-queue
 
 ## Setup
 
-1. Update `PACKAGE_NAME` in `package.json`
+1. Update `promise-queue` in `package.json`
 2. Create Github repo
 3. `npm i`
 4. `npx semantic-release-cli setup`

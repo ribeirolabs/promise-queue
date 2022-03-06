@@ -1,5 +1,5 @@
 {
-  "name": "@ribeirolabs/PACKAGE_NAME",
+  "name": "@ribeirolabs/promise-queue",
   "version": "0.0.0-development",
   "description": "DESCRIPTION",
   "main": "dist/index.js",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ribeirolabs/PACKAGE_NAME.git"
+    "url": "https://github.com/ribeirolabs/promise-queue.git"
   },
   "keywords": [],
   "author": "Igor Ribeiro <igor.ribeiro.plus@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ribeirolabs/PACKAGE_NAME/issues"
+    "url": "https://github.com/ribeirolabs/promise-queue/issues"
   },
-  "homepage": "https://github.com/ribeirolabs/PACKAGE_NAME#readme",
+  "homepage": "https://github.com/ribeirolabs/promise-queue#readme",
   "devDependencies": {
     "@semantic-release/changelog": "6.0.1",
     "@testing-library/jest-dom": "5.16.2",

@@ -26,7 +26,7 @@ build({
   ...browser,
   outfile: './dist/index.browser.js',
   format: 'iife',
-  globalName: throw new Error('Set globalName'),
+  globalName: 'ribeirolabs.promiseQueue',
 }).catch(exit);
 
 build({
